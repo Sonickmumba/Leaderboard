@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-Check **Live Demo** [here.]()
+Check **Live Demo** [Leaderboard.](https://sonickmumba.github.io/Leaderboard/)
 
 ## Getting Started
 
