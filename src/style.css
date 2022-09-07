@@ -50,19 +50,20 @@ h2 {
   border-collapse: collapse;
 }
 
-tr {
-  width: 100%;
+.container {
+  border: 1px solid black;
 }
 
-tr:nth-child(even) {
-  background-color: #ddd;
-}
-
-td {
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 30px;
   padding: 4px 250px 4px 15px;
-  text-align: left;
-  width: 100%;
   font-size: 1rem;
+}
+
+ul:nth-child(even) {
+  background-color: #ddd;
 }
 
 .add-score-section {
