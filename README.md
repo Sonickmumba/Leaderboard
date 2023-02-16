@@ -49,8 +49,8 @@ Use 'git clone git@github.com:Sonickmumba/Leaderboard.git' to clone the reposito
 - run ESLint linter
     - Run npx eslint . on the root of your directory of your project.
 
-- run gulp
-    - Run gulp <name-of-task> on the root of your directory of your project.
+<!-- - run gulp
+    - Run gulp <name-of-task> on the root of your directory of your project. -->
 
 ### Deployment
 
